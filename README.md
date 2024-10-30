@@ -16,6 +16,9 @@ The Call Center Performance Dashboard is an advanced analytical tool designed to
 ## Purpose
 The purpose of this dashboard is to provide call center managers with a comprehensive view of operations, facilitating data-driven decisions to enhance efficiency, productivity, and customer service quality.
 
+![image](https://github.com/user-attachments/assets/a672bcc7-6873-4939-a3c8-ae6f9040329a)
+
+
 ## Technology Stack
 - **Data Analysis**: Performed data analysis to derive meaningful insights.
 - **Power BI**: For creating and visualizing data insights.
